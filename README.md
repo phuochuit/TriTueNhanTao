@@ -81,14 +81,12 @@ III. Code
 + Tạo một cửa sổ phụ (Toplevel).
 + Hiển thị ma trận hiện tại vào một ô nhập văn bản (Text widget).
 + Khi người dùng sửa số và bấm "Cập nhật", chương trình sẽ đọc lại văn bản đó, chuyển thành ma trận mới và vẽ lại đồ thị.
-
 - Chức năng hoạt hình (start_coloring & animate_step)
 + start_coloring: Chạy thuật toán logic để lấy kết quả trước, sau đó khóa các nút bấm và bắt đầu hoạt hình.
 + animate_step(index): Đây là hàm đệ quy gián tiếp dùng root.after.
           Lấy đỉnh thứ index trong danh sách đã sắp xếp.
           Tô màu đỉnh đó trên màn hình Turtle (draw_node).
           Cập nhật màu và bôi đen dòng tương ứng trên bảng bên trái (self.tree).
-          self.root.after(800, ...): Chờ 800ms (0.8 giây) rồi mới gọi lại chính hàm animate_step với index + 1. Điều này tạo ra độ trễ giúp mắt người theo dõi kịp quá trình tô màu.
 IV. Tóm tắt luồng chạy của chương trình:
 Bước 1: Khởi động: Hiện giao diện trống.
 Bước 2: Đọc File: Người dùng chọn file -> Chương trình vẽ các đỉnh trắng và dây nối đen.
