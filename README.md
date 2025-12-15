@@ -69,3 +69,16 @@ Thời gian thực thi	                                          Thường nhanh
 Dữ liệu cần	                                                                  Ma trận đồ thị + kiến thức bổ sung	                                            Ma trận đồ thị + hàm heuristic
 Khi dùng	                                                          Khi có kiến thức về môi trường nhưng heuristic không rõ ràng                  	Khi có heuristic admissible và muốn tìm đường đi tối ưu
 
+
+
+--Output kết quả chạy
++ Thuật giải Akt với bài toán (8 puzzle) n = 3
+<img width="118" height="322" alt="image" src="https://github.com/user-attachments/assets/066afb23-e290-4530-a1a3-dc4c91655aff" />
+
++ Thuật giải A* với bài toán đồ thị
+<img width="352" height="49" alt="image" src="https://github.com/user-attachments/assets/2cf9eabc-ccdb-43fe-857f-30547afc2f33" />
+
+
++ Thuật giải A* với bài toán đồ thị (Update)
+<img width="353" height="139" alt="image" src="https://github.com/user-attachments/assets/ea537782-bf0b-43b4-829e-1ee2f038ba8c" />
+
