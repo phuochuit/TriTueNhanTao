@@ -64,7 +64,7 @@ class Graph:
 
         return None, float('inf')
 
-# --- PHẦN 2: GIAO DIỆN NHẬP LIỆU CHO USER ---
+# --- PHẦN 2: GIAO DIỆN NHẬP LIỆU  ---
 
 def get_user_input():
     g = Graph()
