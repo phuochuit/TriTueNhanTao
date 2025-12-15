@@ -95,5 +95,13 @@ Nước 3: Chạy Tô màu:
           Giao diện bắt đầu "chiếu phim": Đỉnh có bậc cao nhất sáng lên màu đầu tiên -> Cập nhật bảng -> Chờ 0.8s -> Đỉnh tiếp theo...
 Bước 4: Kết thúc: Thông báo "Đã tô màu xong".
 
+--Kết quả chạy 
++ Thuật giải tô màu đồ thị
+<img width="209" height="149" alt="image" src="https://github.com/user-attachments/assets/b4fb0031-b0ca-43ed-94a9-95e4aaa4db73" />
++ Thuật giải tô màu đồ thị (Update 1) - Đọc file txt
+<img width="932" height="657" alt="image" src="https://github.com/user-attachments/assets/bbdc5b14-7499-400a-85f8-f482b3afdf4c" />
++ Thuật giải tô màu đồ thị (Update 2) - Đọc/xuất file txt, có thể chỉnh sửa ma trận trực tiếp
+<img width="994" height="658" alt="image" src="https://github.com/user-attachments/assets/2ef160f6-f0d8-4a8c-87a9-56c0e9db6fa0" />
+<img width="677" height="758" alt="image" src="https://github.com/user-attachments/assets/e9eca4a2-47c6-4ad5-aeab-c7ef648cb6c3" />
 
   
